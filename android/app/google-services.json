@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "390871706859",
+    "firebase_url": "https://bold-cable-230411.firebaseio.com",
+    "project_id": "bold-cable-230411",
+    "storage_bucket": "bold-cable-230411.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:390871706859:android:270af684cda04146e9a2ae",
+        "android_client_info": {
+          "package_name": "gigtodo.teamtweaks.com.gigtodo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "390871706859-abeeucfa3qahiv7ug4jf6g5i3ft05r4f.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB7MPWbmHtP9CVppTVpQ_DiEslVaFJ-IHY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "390871706859-abeeucfa3qahiv7ug4jf6g5i3ft05r4f.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "390871706859-eec4o1d6ur7laf7g6rt2eti3b85t83f2.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.gtg.flutterApp"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
